@@ -1,6 +1,6 @@
 # cocotb-uart
 
-
+[![CI](https://github.com/madhu-dev-ai/cocotb-uart/actions/workflows/ci.yml/badge.svg)](https://github.com/madhu-dev-ai/cocotb-uart/actions/workflows/ci.yml)
 
 A UART transmitter written in Verilog and verified with cocotb (Python) and Icarus Verilog.
 
@@ -45,4 +45,3 @@ make
 ## Tools
 
 Verilog, Python, cocotb 2.1.0, Icarus Verilog, make
-
